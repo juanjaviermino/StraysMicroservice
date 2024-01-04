@@ -1,0 +1,6 @@
+runtime: python39  # Use the Python version supported by App Engine
+entrypoint: gunicorn -b :$PORT app:app  # Corrected entrypoint
+
+handlers:
+- url: /.*
+  script: auto
