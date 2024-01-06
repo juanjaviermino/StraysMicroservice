@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "silicon-brace-410116",
+  "private_key_id": "7c097b027311a0b08f8a4b26df8a5f2596959fdc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDcoSJWjfOyZmvF\noKKRz8bmAPkRt1pESbeZTvzYf1m46j9wh3AJkr8TbgVx+BmRbjaVegAX98rMNNc0\n2BE6QzFVXG5VFvrZpm3HIBMjy3NhwhoqOzvZDrM2d5VysDiE93zI0/sU0eJyQS3B\n4K5PUo2q1/xZqwwmPMZCcB/TPvG3w3+AS48K72XV9JZ4a1oEegVJkLWsgKacwnUV\nDK5BqeubwcwoQEcrbGjD39jkv8V9Ur9tYOehthWE8UAf03Ui+sQ7L1PRSEUwDvDs\nxgeZlbXaa4p1zpr2zRpbvE5eZN5f7DZsZ/5jmtK/kZJte9N3g0JuA4Zabq1geeMb\nTWH691DNAgMBAAECggEABOE1ereaB7yXLqBOaC4xxn2IBLnK7863llb2Za1vZRUd\nQRZlxnht7HaW/T3RBvPqliTEIsOSwzB6AAu1WdYJncs1D4G6G51AOVK+yaBi1Wsv\nG/cCbFsUYKSFdCtsnJhCtMhneb7opMFHS032XP/E7V3okW0kkCXw9qA3O/tc6kUI\npK9e8bJYP8YjveiCJIk9dg1OLJlaBfRbVH79zF8hfuhVnaJr8T7ENCqIV/T1vyDX\nmFQaTVeEM1oyZE7yWGxavg74nQaEOvND/sbXDdzQbNDPXcGUfTB5jmLzskoKKYj4\nF3EWw1/R4YJDQXydqOEvvCdXCbWV9pyWvOY6GY/kUQKBgQD1gR0nG+9EdIOPtosb\nJtgNoKPwTNcmlu2DSTjHJTRUy6YPsQEI4+Pm7zLTfXbggs/L+hRnFEMjzUkx0f4G\nXEWNlra6NBj8xSIWkpykd21K2m5ysCMLzPdDp0YjDUbWOAuvT0oWvtnqbtC1ehui\nFZDiwWh/E3oqWHG9DSUAtu6JFQKBgQDmD8fFcCRB2zxOAxcTJXJIUfwCDpej/2gZ\n0zBOt/qwrg1WkNlpm72WmDuLuB6l6YqBgU369HI68k9abFPy0S5XJ5F42lun4fZ8\n6qjucev3NRuGwvEwii8SsHyDOjRLKsSZwxnOe5aQTeb29PzpJhot/GvWyc2gZwpL\naTUvO7wm2QKBgQDwmNdcM5k6akFgv1H2iwvj1xGy92tHC1S7fC/jowd1LpuQ9zP/\nZW89LCCQeX3eKvTAf1YtawMdfBsGczjTPOyBBToQo+v1FLEClC5lVBFM8WKajRnb\nf8S3jaBDy8gnOofhCACg5+siP/XUVFXuc9opD8h7+TeZdlIJJ2+jEqQUvQKBgFAs\nmar1vLzyoR5ytzzl5ODNKWyyFyiA3o95aLFWLlgaH+3WBt5l9vkfTkkPviaFr84X\n+MwHGjPus7bIX60UNvkKggjC2AQ2nAbGZF7MdrYs3M3m69TFo0f5FztIMmcrnV4U\nfs7VhQ//Bgl0MRszOxZhjFdK9oz6u7yyCmXOhHBpAoGAGZzlU4ezeqxNmoWQ1AYp\n3/fqZsswYWNZqtmu34mBvzbx1iBKUp/vot8+w3binFjp6dNY0JYK/BvUjkHUL6fr\n64ff4adPLEyHqoPhCIIgvwIOF8iJX+fNKyJO99CowPXBsYWWp7alo10FKNcG4qW/\nr61tx+T6glmJEyPN+fSyhbs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "straysbackend@silicon-brace-410116.iam.gserviceaccount.com",
+  "client_id": "107334698805862912465",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/straysbackend%40silicon-brace-410116.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
